@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) HTML Eğitimi Ödev-1. İçerisinde bir adet README ve index.html bulunmaktadır.
